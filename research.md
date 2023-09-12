@@ -1,6 +1,6 @@
   
 # Working papers
-## <a href="https://www.dropbox.com/scl/fi/20een163uhwgh45qkgn9x/GP-shortages.pdf?rlkey=2lzt2ao6cejb3k8j1qcqdoavr&dl=0" target=_blank>Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>)
+## <a href="https://www.dropbox.com/scl/fi/20een163uhwgh45qkgn9x/GP-shortages.pdf?rlkey=2lzt2ao6cejb3k8j1qcqdoavr&dl=0" target=_blank>Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
  <p align="justify">
 This paper examines the impact of financial incentive policies on regional shortages of general practitioners (GPs) in England. Using a difference-in-differences analysis, the study focuses on the Targeted Enhanced Recruitment Scheme (TERS), which provides a one-time payment of £20,000 to GP specialty trainees in specific areas. The results demonstrate that the TERS policy increases the number of trainees by 34% per patient. However, this increase is accompanied by the departure of senior GPs from the profession. Additionally, the study estimates a demand and supply model for general practices and evaluates the effects of an alternative policy proposal: reallocating NHS funding from the least to the most deprived practices. The findings indicate that reallocating 10% of funds leads to a 1% increase in the number of GPs. This suggests a small elasticity of labor supply in response to funding changes in general practices. </p>
 
