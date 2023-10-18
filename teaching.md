@@ -1,5 +1,7 @@
 # Teaching Assistance Experiences
 ## UG modules
+  - 2023 Econometrics I, Queen Mary University of London
+  - 2023 Health Economics, Queen Mary University of London
   - 2023 Macroeconomics I, Queen Mary University of London
   - 2022 Microeconomics I, Queen Mary University of London
   - 2021 Statistical Methods in Economics, Queen Mary University of London
