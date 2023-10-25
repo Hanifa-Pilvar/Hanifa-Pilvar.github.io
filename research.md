@@ -1,8 +1,10 @@
-  
-# Working papers
+# Reaserch Papers 
+# Job Market Paper
 ## <a href="https://www.dropbox.com/scl/fi/dft8z10g1pakqgzcgb0a2/GP-shortages.pdf?rlkey=xm6pmdz3tgclf8j21j67fkw4a&dl=0" target=_blank>Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
  <p align="justify">
 This paper examines the impact of financial incentive policies on regional shortages of general practitioners (GPs) in England. The study focuses on the Targeted Enhanced Recruitment Scheme (TERS), which provides a one-time payment of £20,000 to GP specialty trainees in specific areas. The results demonstrate that the TERS policy increases the number of trainees by 38% per patient. However, this increase is accompanied by the reduction in the number of senior GPs. Additionally, the study estimates a demand and supply model for general practices and evaluates the effects of an alternative policy proposal: reallocating NHS funding from the least to the most deprived practices and fund increasing to most deprived practices. The findings indicate that reallocating 10% of funds leads to a 1.5% increase and fund increasing by 10% leads to 1% increase in the number of GPs per 10,000 patients. This suggests a small elasticity of labor supply in response to funding changes in general practices. </p>
+
+# Working Papers
 
 ## <a href='https://www.dropbox.com/scl/fi/xdhueauwz7qmz5kgjj98h/Physician-workload.pdf?rlkey=em548dyan732va1dk19mtasvd&dl=0' target=_blank>The Effect of Workload on Primary Care doctors on Referral Rates and Prescription Patterns: Evidence from English NHS</a>, (with <a href="https://www.health.org.uk/about-the-health-foundation/our-people/REAL-centre-team/toby-watt" target="_blank">Toby Watt</a>).
 <p align="justify">
