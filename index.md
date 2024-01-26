@@ -10,7 +10,7 @@ I am Hanifa Pilvar, a Research Fellow in Health Economics at <a href="https://ww
  </p> 
 
  <p align="justify">
-I received a Ph.D. in ecnonomics from the <a href="https://www.qmul.ac.uk/sef/staff/hanifapilvar.html" target="_blank">School of Economics and Finance, Queen Mary University of London</a> in 2023. During my doctoral studies, my research centered around understanding physician behavior and incentives, as well as the implications of physician shortages and potential strategies for mitigation. 
+I received a Ph.D. in ecnonomics from the <a href="https://www.qmul.ac.uk/sef/" target="_blank">School of Economics and Finance, Queen Mary University of London</a> in 2023. During my doctoral studies, my research centered around understanding physician behavior and incentives, as well as the implications of physician shortages and potential strategies for mitigation. 
 
 </p>
   Here is my brief <a href="https://www.dropbox.com/scl/fi/gvmop1f8oo5q2o17pl2xd/CV.pdf?rlkey=i2nqr97ct35ib9572rld7e4ss&dl=0" target="_blank">Résumé</a>.
