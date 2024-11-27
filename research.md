@@ -1,10 +1,8 @@
 # Reaserch Papers 
-# Job Market Paper
-## <a href="https://www.dropbox.com/scl/fi/dft8z10g1pakqgzcgb0a2/GP-shortages.pdf?rlkey=xm6pmdz3tgclf8j21j67fkw4a&dl=0" target=_blank>Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
+# Working Papers
+## <a href=/assets/pdf/primary_secondary.pdf>Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
  <p align="justify">
  Primary care plays a vital role in the population's well-being, especially considering the growing aging demographic. However, the shortage of General Practitioner (GP) doctors is a widespread issue in all developed countries, notably in England, and regional disparities in GP access are a matter of great concern for policymakers. Drawing on a detailed dataset of the GP workforce, this paper examines the impact of financial incentive policies on regional GP shortages in England. First, the study focuses on a policy offering a generous one-time payment equivalent to 50\% of GP specialty trainees' annual income if they work in targeted areas. The reduced form results demonstrate that the policy increases the number of trainees per patient by 50\%. However, this increase is accompanied by a reduction in the working hours of senior GPs. The results suggest that the increase in the number of GP trainees does not significantly benefit deprived areas, which are the main focus of the policy debate on GP shortages. Additionally, the study estimates a static demand and supply model for general practices that are in quality competition and evaluates the effects of three alternative policy proposals: the model allows comparing policies that direct funding to entrant GPs if they work in areas with the highest shortage, i.e., the most deprived neighborhoods, with policies that increase funding to providers. The counterfactual analysis shows that all scenarios have limited effects on GP per capita in deprived areas. However, policies channeling funds to new entrants demonstrate greater effectiveness compared to those directed at general practices. </p>
-
-# Working Papers
 
 ## <a href='https://www.dropbox.com/scl/fi/xdhueauwz7qmz5kgjj98h/Physician-workload.pdf?rlkey=em548dyan732va1dk19mtasvd&dl=0' target=_blank>The Effect of Workload on Primary Care doctors on Referral Rates and Prescription Patterns: Evidence from English NHS</a>, (with <a href="https://www.health.org.uk/about-the-health-foundation/our-people/REAL-centre-team/toby-watt" target="_blank">Toby Watt</a>).
 <p align="justify">
