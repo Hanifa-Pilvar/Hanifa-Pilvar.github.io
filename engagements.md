@@ -1,7 +1,7 @@
 # Academic talks
 
 ## 2024
- -<a href="https://warwick.ac.uk/fac/sci/med/research/hscience/healthec/hesg/" target="_blank">HESG Summer Meeting 2024</a>
+ - <a href="https://warwick.ac.uk/fac/sci/med/research/hscience/healthec/hesg/" target="_blank">HESG Summer Meeting 2024</a>
 
 ## 2023
  - <a href="https://euhea.eu/phd-workshop-2023_welcome.html" target="_blank">10th EuHEA PhD & Supervisor Conference</a>
