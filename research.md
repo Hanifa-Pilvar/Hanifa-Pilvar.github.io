@@ -1,12 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GKXVC7XP43"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GKXVC7XP43');
-</script>
 # Reaserch Papers 
 # Working Papers
 ## <a href="/assets/pdf/primary_doctor_shortage.pdf"  target="_blank">Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
