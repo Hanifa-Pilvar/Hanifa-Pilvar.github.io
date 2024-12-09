@@ -8,7 +8,7 @@
 ## The Evolution of Costs of Mental Health Admissions to Paediatric Wards in England (with Francesca Cornaglia)
 
 # Publications
- - <a href="https://link.springer.com/article/10.1007/s10198-024-01742-7#:~:text=Leveraging%20the%20absence%20of%20General,and%20frequency%20of%20psychotropics%20decreases." target="_blank">The Effect of Workload on Primary Care doctors on Referral Rates and Prescription Patterns: Evidence from English NHS </a>, with <a href="https://www.health.org.uk/about-the-health-foundation/our-people/REAL-centre-team/toby-watt" target="_blank">Toby Watt</a>, European Journal of Health Economics, 2024.
+ - <a href="https://link.springer.com/article/10.1007/s10198-024-01742-7" target="_blank">The Effect of Workload on Primary Care doctors on Referral Rates and Prescription Patterns: Evidence from English NHS </a>, with <a href="https://www.health.org.uk/about-the-health-foundation/our-people/REAL-centre-team/toby-watt" target="_blank">Toby Watt</a>, European Journal of Health Economics, 2024.
   - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629621000990" target="_blank">Changing Physicians' Incentives to Control the C-section Rate: Evidence from a Major Health Care Reform in Iran </a> ,with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a>, Journal of Health Economics, 2021.
     
     <i> Winner of <a href="https://www.youtube.com/watch?v=fak7X6MsY0I&t=1904s" target="_blank">27th ERF annual conference Best paper award </a> and <a href="https://healtheconomics.org/awards/" target="_blank"> IHEA 2022 student paper prize, honorable mention </a> </i>
