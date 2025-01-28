@@ -1,6 +1,5 @@
-# Reaserch Papers 
-
 # Publications
+
  - <a href="https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(24)00333-X/fulltext" target="_blank">Admission to acute medical wards for mental health concerns among children and young people in England from 2012 to 2022: a cohort study </a>, with <a href="https://www.ucl.ac.uk/child-health/people/joseph-ward" target="_blank">Joseph Ward</a> et al., The Lancet Child & Adolescent Health, 2024.
  - <a href="https://link.springer.com/article/10.1007/s10198-024-01742-7" target="_blank">The Effect of Workload on Primary Care doctors on Referral Rates and Prescription Patterns: Evidence from English NHS </a>, with <a href="https://www.health.org.uk/about-the-health-foundation/our-people/REAL-centre-team/toby-watt" target="_blank">Toby Watt</a>, European Journal of Health Economics, 2024.
   - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629621000990" target="_blank">Changing Physicians' Incentives to Control the C-section Rate: Evidence from a Major Health Care Reform in Iran </a> ,with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a>, Journal of Health Economics, 2021.
@@ -11,11 +10,13 @@
   - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1062976918302217" target="_blank">Import Tax Evasion and Avoidance: Evidence From Iran</a>, with <a href="https://economics.ut.ac.ir/en/~kyousefi" target="_blank">Kowsar Yousefi </a> and <a href="https://gsme.sharif.edu/~vesal/" target="_blank">Mohammad Vesal</a>, Quarterly Review of Economics and Finance, 2019.
 
 # Working Papers
+
 ## <a href="/assets/pdf/primary_doctor_shortage.pdf"  target="_blank">Primary Care Doctors’ Shortages and the Role of Financial Incentives </a>
  <p align="justify">
  Primary care plays a vital role in the population's well-being, especially considering the growing aging demographic. However, the shortage of General Practitioner (GP) doctors is a widespread issue in all developed countries, notably in England, and regional disparities in GP access are a matter of great concern for policymakers. Drawing on a detailed dataset of the GP workforce, this paper examines the impact of financial incentive policies on regional GP shortages in England. First, the study focuses on a policy offering a generous one-time payment equivalent to 50% of GP specialty trainees' annual income if they work in targeted areas. The reduced form results demonstrate that the policy increases the number of trainees per patient by 50%. However, this increase is accompanied by a reduction in the working hours of senior GPs. The results suggest that the increase in the number of GP trainees does not significantly benefit deprived areas, which are the main focus of the policy debate on GP shortages. Additionally, the study estimates a static demand and supply model for general practices that are in quality competition and evaluates the effects of three alternative policy proposals: the model allows comparing policies that direct funding to entrant GPs if they work in areas with the highest shortage, i.e., the most deprived neighborhoods, with policies that increase funding to providers. The counterfactual analysis shows that all scenarios have limited effects on GP per capita in deprived areas. However, policies channeling funds to new entrants demonstrate greater effectiveness compared to those directed at general practices. </p>
 
 # Works in progress
+
 -  The Cost of Admitting Children and Young People to Acute Medical Wards for Mental Health Problems in England, 2012–2022 (with Francesca Cornaglia et al.)
 -  Educational and Labour Market Trajectories in Adulthood for Very Preterm and Very Low Birth Weight Individuals : Evidence from Multi-National Cohorts (with Catia Nicodemo et al.)
 
